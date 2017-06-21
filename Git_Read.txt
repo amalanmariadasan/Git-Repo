@@ -1,3 +1,7 @@
 1) git clone https://github.com/amalanmariadasan/Git-Repo
 2) git status
+3} git add <file name> or git add -A
+4) git commit -m "Added new file"
+5} git push
 
+1) git pull
